@@ -1,0 +1,17 @@
+resistencia;dosificacion;amasadora;operario;laboratorio
+11;C;beta;O1;L1
+8;B;alfa;O1;L2
+9;A;delta;O1;L3
+9;D;gamma;O1;L4
+10;B;gamma;O2;L1
+12;C;delta;O2;L2
+11;D;alfa;O2;L3
+8;A;beta;O2;L4
+14;D;delta;O3;L1
+10;A;gamma;O3;L2
+7;B;beta;O3;L3
+18;C;alfa;O3;L4
+8;A;alfa;O4;L1
+12;D;beta;O4;L2
+15;C;gamma;O4;L3
+6;B;delta;O4;L4
